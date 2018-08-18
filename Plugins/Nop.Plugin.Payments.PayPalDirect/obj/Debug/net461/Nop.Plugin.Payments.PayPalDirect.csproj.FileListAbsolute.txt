@@ -1,0 +1,14 @@
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.AssemblyInfo.cs
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\plugin.json
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\Configure.cshtml
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\PaymentInfo.cshtml
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Views\_ViewImports.cshtml
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\logo.jpg
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Presentation\Nop.Web\Plugins\Payments.PayPalDirect\Nop.Plugin.Payments.PayPalDirect.pdb
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csprojAssemblyReference.cache
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csproj.CoreCompileInputs.cache
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.AssemblyInfoInputs.cache
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.csproj.CopyComplete
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.dll
+C:\Users\goatman\Desktop\nopCommerce_4.00_Source\Plugins\Nop.Plugin.Payments.PayPalDirect\obj\Debug\net461\Nop.Plugin.Payments.PayPalDirect.pdb
